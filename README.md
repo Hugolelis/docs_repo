@@ -6,5 +6,5 @@ Reunir e organizar conteúdos que sirvam como referência para estudos, além de
 ### Clone o repositório
 
 
-bash
+```bash
 git clone https://github.com/Hugolelis/documentation.git
